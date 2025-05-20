@@ -73,5 +73,7 @@ LinguaLens is a modern web application that provides seamless text translation p
 
 Contributions are welcome! If you have suggestions or improvements, please feel free to open an issue or submit a pull request.
 
+https://ai-translator-m6imiijbj-soumyaja29s-projects.vercel.app/
+
 
 
